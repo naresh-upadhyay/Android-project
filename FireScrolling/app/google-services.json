@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "368791335614",
+    "firebase_url": "https://firescrolling.firebaseio.com",
+    "project_id": "firescrolling",
+    "storage_bucket": "firescrolling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368791335614:android:322687d3d918e4b9",
+        "android_client_info": {
+          "package_name": "com.naresh.kingupadhyay.firescrolling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368791335614-inddm4e9ld7p73ttg555p2sodnoel0jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naresh.kingupadhyay.firescrolling",
+            "certificate_hash": "ca08d9144246339f9f01e905b318928d1bd3b5e6"
+          }
+        },
+        {
+          "client_id": "368791335614-s8r8i2kfjsmacabrgrord566p8vrgtj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPivRsk8NBHM04aibyeLVQMNQ_d_dR4UM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368791335614-s8r8i2kfjsmacabrgrord566p8vrgtj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

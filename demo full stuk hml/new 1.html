@@ -1,0 +1,20 @@
+<html ng-app="todoApp">
+      <head>
+	        <title>demo html</title>
+		</head>
+		<body>
+		 
+			  			  
+			  <div ng-controller="todoctrl as todo">
+			  <input type="text" ng-model="todo.task" placeholder="Todo1">
+			    <h2>{{todo.task}}</h2>
+				<ul>
+				    <li ng-repeat="t in todo.task">{{t}}
+					</li>
+				</ul>
+			  <div ng-controller="todoctrl as todo1">
+			  <input type="text" ng-model="todo1.task" placeholder="Todo2">
+			    <h2>{{todo.task}}</h2>
+				</div>
+			  </body>
+</html>

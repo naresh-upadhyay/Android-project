@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WorkOutApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="work_text">Choose Your ZYM Work Out Type</string>
+    <string name="title">Your have to do this workout</string>
+    <string-array name="work_out">
+        <item>Select any one</item>
+        <item>Chest</item>
+        <item>Arms</item>
+        <item>Biseps</item>
+        <item>Triseps</item>
+        <item>Legs</item>
+
+    </string-array>
+</resources>

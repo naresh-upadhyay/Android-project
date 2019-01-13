@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FireScrolling</string>
+    <string name="action_settings">Settings</string>
+    <string name="theme_post">Post Activity</string>
+</resources>

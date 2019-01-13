@@ -1,0 +1,17 @@
+<html >
+      <head>
+	        <title>demo html</title>
+			 link
+			<style>
+			     
+		</head>
+		<body>
+		 
+			  <input type="text" ng-model="name/>
+			  <h1>{{name}}</h1>
+			  <a href="http://www.{{name}}.com" target="_blank">{{name}}
+			  <img src="{{name}}">
+	          
+			  <button ng-click="name='iiitk' ">Fire me </button>
+	    </body>
+</html>
